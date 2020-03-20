@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+This is a News App with Flutter Sqlite
 
 ## Getting Started
 
